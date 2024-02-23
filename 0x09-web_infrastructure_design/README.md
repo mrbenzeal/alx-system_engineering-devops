@@ -7,7 +7,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX**. It a
 * [Network basics](https://alx-intranet.hbtn.io/concepts/33)
 * [Server](https://alx-intranet.hbtn.io/concepts/67)
 * [Web Server](https://alx-intranet.hbtn.io/concepts/17)
-* Application server
+* [Application Server](https://www.gartner.com/en/information-technology/glossary/application-server#:~:text=An%20application%20server%20is%20a,applications%20on%20the%20third%20side.)
 * [Application server vs Web server](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
 * [What’s the difference between a Web server and an App server?](https://www.youtube.com/watch?v=S97eKyv2b9M)
 * [DNS](https://alx-intranet.hbtn.io/concepts/12) 
@@ -169,3 +169,8 @@ You must add to [2-secured_and_monitored_web_infrastructure](2-secured_and_monit
 | [`1-distributed_web_infrastructure`](./1-distributed_web_infrastructure) | Web Infrastructure Design, based on `0-simple_web_stack` that contains some additional components: 1 server, 1 web server, 1 application server, 1 load-balancer, 1 set of application files, 1 database |
 | [`2-secured_and_monitored_web_infrastructure`](2-secured_and_monitored_web_infrastructure) | Web Infrastructure Design, based on `1-distributed_web_infrastructure` that contains some additional components: 3 firewalls, 1 SSL certificate, 3 monitoring clients |
 | [`3-scale_up`](3-scale_up) | Web Infrastructure Design, based on `2-secured_and_monitored_web_infrastructure` that contains some additional components: 1 server, 1 load-balancer |
+
+
+## Authors :black_nib:
+
+[Ani Obinna Benzeal](https://www.linkedin.com/in/engraniobc/) | [Twitter](https://twitter.com/AniBenzeal) | [GitHub](https://github.com/mrbenzeal)
